@@ -1,0 +1,13 @@
+type Recipe @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  ingredients: AWSJSON
+  Description: String
+}
+
+type Todo @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String!
+  description: String
+  image: String
+}
+ 

@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-recipesaver-dev-115135-authRole",
+      "UnauthRoleArn": "arn:aws:iam::721218798581:role/amplify-recipesaver-dev-115135-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::721218798581:role/amplify-recipesaver-dev-115135-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-recipesaver-dev-115135-deployment",
+      "UnauthRoleName": "amplify-recipesaver-dev-115135-unauthRole",
+      "StackName": "amplify-recipesaver-dev-115135",
+      "StackId": "arn:aws:cloudformation:us-east-1:721218798581:stack/amplify-recipesaver-dev-115135/5642d770-b39a-11ed-b327-0a810cf89abb",
+      "AmplifyAppId": "d9f1xep0ui4vf"
+    },
+    "categories": {
+      "api": {
+        "recipesaver": {}
+      },
+      "auth": {
+        "recipesaver3a045c51": {}
+      },
+      "storage": {
+        "imagestorage": {}
+      }
+    }
+  }
+}
